@@ -1,7 +1,4 @@
-<h3 align="center">Telecommunications Engineering Student at ENIT 🇹🇳</h3>
-# Hi, I'm Hadil Ammari
-
-**Telecommunications Engineering Student | ENIT**
+<h3 align="center">Telecommunications Engineering Student at ENIT</h3>
 
 Engineering student specializing in **Converged Infrastructure, Cloud & Cybersecurity**.
 
