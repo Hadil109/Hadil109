@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hadil</h1>
-<h3 align="center">Engineering student specializing in Telecommunication </h3>
-<h3 align="center"> deep learning , 5G </h3>
-- 📫 How to reach me **hadil.ammari@etudiant-enit.utm.tn**
+# Hi, I'm Hadil Ammari
 
+**Telecommunications Engineering Student | ENIT**
+
+Engineering student specializing in **Converged Infrastructure, Cloud & Cybersecurity**.
+
+### Technical Background
+- **Programming:** Python, C, C++, C#, SQL
+- **AI & Machine Learning:** Deep Learning, CNNs, TensorFlow, Keras, OpenCV
+- **Networking:** TCP/IP, Routing & Switching, 4G/5G
+- **Tools:** Linux, Git, Docker
+
+### Projects & Interests
+- AI-based signature verification using Deep Learning
+- Secure network infrastructure and monitoring
+- AI-assisted 5G radio coverage optimization
+- Cloud infrastructure and cybersecurity
+
+📧 **Email:** hadil.ammari@etudiant-enit.utm.tn
